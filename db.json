@@ -1,4 +1,5 @@
-[
+{
+  "Products": [
 	{
 		"SBS": "A",
 		"SBS Line": "A03",
@@ -84,3 +85,4 @@
 		"List Price": 121
 	}
 ]
+}
