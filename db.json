@@ -7,7 +7,7 @@
 		"SBS Line": "A03",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "B19 - BTA REAGENT INDUSTRIAL USE",
 		"Product Group": "CONSUMABLE",
 		"List Price": 1023
@@ -19,7 +19,7 @@
 		"SBS Line": "B10",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "0.5M FLAT CABLE - MD5008",
 		"Product Group": "POWER SUPPLY",
 		"List Price": 81.31
@@ -31,7 +31,7 @@
 		"SBS Line": "C04",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "1000 SROYTE - 6200140",
 		"Product Group": "CONSUMABLE",
 		"List Price": 811.31
@@ -43,7 +43,7 @@
 		"SBS Line": "D12",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "1,5 A NANO FUSE - 19600490",
 		"Product Group": "ACCESSORY",
 		"List Price": 11.31
@@ -55,7 +55,7 @@
 		"SBS Line": "E34",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "128MB SDRAM DIMM, 168 PIN - 186161-106",
 		"Product Group": "COMPUTER",
 		"List Price": 125
@@ -67,7 +67,7 @@
 		"SBS Line": "E34",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "1400G BARCODE READER STAND - 421867",
 		"Product Group": "BARCODE",
 		"List Price": 500
@@ -79,7 +79,7 @@
 		"SBS Line": "F31",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "30ML UNIVERSAL - BORIC ACID - 414510",
 		"Product Group": "CONSUMABLE",
 		"List Price": 5
@@ -91,7 +91,7 @@
 		"SBS Line": "G44",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "3D SIGNATURE SOFTWARE PACKAGE - 213707",
 		"Product Group": "SOFTWARE",
 		"List Price": 5
@@ -103,7 +103,7 @@
 		"SBS Line": "H01",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "5M CABLE EXTENSION LG2 PROBE - MD5009",
 		"Product Group": "POWER SUPPLY",
 		"List Price": 9.99
@@ -115,7 +115,7 @@
 		"SBS Line": "H01",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "72737 DETECTION TX IGA 79322 - 414374",
 		"Product Group": "PROBE EQUIPT",
 		"List Price": 6411
@@ -127,7 +127,7 @@
 		"SBS Line": "L56",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "96 WELLS TST TUBES SUPPORT - 416973",
 		"Product Group": "SYSTEM",
 		"List Price": 50
@@ -139,10 +139,9 @@
 		"SBS Line": "Y04",
 		"Budget Group": "Test - Budget Group",
 		"Price Validity Start Date": "2019-08-01",
-		"Price Validity End Date": "2020-12-01",
+		"Price Validity End Date": "2020-12-31",
 		"Product Name": "2 PROBES TRANSMITTER INSTAL",
 		"Product Group": "PROBE",
 		"List Price": 121
-	}
-]
+	}]
 }
